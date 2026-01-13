@@ -13,7 +13,7 @@ def iniciar_sistema():
     while True:
         
         menu()
-        opcao = int(input("\nEscolha uma opção: "))
+        opcao = int(input("\nEscolha uma opção entre [1] [2] [3] ou [4]: "))
         print("\n")
         if opcao == 1:
             limpar_tela() 
