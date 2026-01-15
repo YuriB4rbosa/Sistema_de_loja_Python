@@ -40,8 +40,8 @@ def menu():
     print("║  [1] ➕ ADICIONAR AO CARRINHO        ║")
     print("║  [2] 🧮 CALCULAR COMPRAS             ║")
     print("║  [3] 🛒 CARRINHO                     ║")
-    print("║  [4] ❌ SAIR DA LOJA                 ║")
-    print("║                                      ║")
+    print("║  [4] ❌ SALVAR E SAIR DA LOJA        ║")
+    print("║  [5] ❌ SAIR SEM SALVAR DA LOJA      ║")
     print("╚══════════════════════════════════════╝")
     
 
